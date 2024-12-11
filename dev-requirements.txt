@@ -1,0 +1,15 @@
+black
+flake8
+ipython
+isort
+loguru
+mkdocs
+numpy
+pandas
+matplotlib
+pip
+python-dotenv
+tqdm
+pytest
+memory_profiler
+tuna
